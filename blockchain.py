@@ -2,6 +2,7 @@
 # Abrir o terminal do VS e digitar python -m venv venv   E depois digitar venv\Script\activate
 # Caso o segundo passo não de certo  Abrir o power shell como administrador e digitar (pesquisar no youtube)
 # instalar o requests no terminal do vs (pip install requests)
+# invertexto.com/workshopblockchain
 
 import requests
 
